@@ -8,8 +8,9 @@ Based upon the Acceptance Criteria, I was able to create a password generator. T
 # Links
 https://willheyer.github.io/Javascript-Password-Generator/
 
-https://willheyer.github.io/Javascript-Password-Generator/
+https://github.com/WillHeyer/Javascript-Password-Generator
 
-![Portfolio Page #1](Assets/screenshots/screenshot1.png)
 
-![Portfolio Page #2](Assets/screenshots/screenshot2.png)s
+<img src="Assets/screenshots/screenshot2.png" width=50% height=50%>
+
+<img src="Assets/screenshots/screenshot1.png" width=50% height=50%>
