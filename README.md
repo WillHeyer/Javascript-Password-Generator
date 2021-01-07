@@ -11,6 +11,6 @@ https://willheyer.github.io/Javascript-Password-Generator/
 https://github.com/WillHeyer/Javascript-Password-Generator
 
 
-<img src="Assets/screenshots/screenshot2.png" width=50% height=50%>
+![image description or alt text](https://raw.githubusercontent.com/WillHeyer/Javascript-Password-Generator/main/Assets/screenshots/Screenshot1.png)
 
-<img src="Assets/screenshots/screenshot1.png" width=50% height=50%>
+![image description or alt text](https://raw.githubusercontent.com/WillHeyer/Javascript-Password-Generator/main/Assets/screenshots/Screenshot2.png)
